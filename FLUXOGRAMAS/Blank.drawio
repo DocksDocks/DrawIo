@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T14:03:55.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="OA40kGBtWInyXquCXxX0" type="github"><diagram id="8J9mm6EHxH-oIbpS-de5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-17T14:42:42.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WWCBnY97Fi0goXLq2esI" version="13.9.9" type="github">
+  <diagram id="8J9mm6EHxH-oIbpS-de5" name="Page-1">
+    <mxGraphModel dx="1379" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-4" target="KGVV4r6-8Ooxce5C06mz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-4" value="Registrar dados do cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-8" target="KGVV4r6-8Ooxce5C06mz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-8" value="Informar dados do cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-38" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-12" target="KGVV4r6-8Ooxce5C06mz-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-41" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-12" target="KGVV4r6-8Ooxce5C06mz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-12" value="Comprar passagem?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-13" target="KGVV4r6-8Ooxce5C06mz-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="320" />
+              <mxPoint x="730" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-13" value="DISPLAY : &lt;br&gt;&quot;Dados inválidos ou não informados&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-22" value="Dados válidos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-21" target="KGVV4r6-8Ooxce5C06mz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-25" value="Dados Inválidos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-21" target="KGVV4r6-8Ooxce5C06mz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-21" value="Validar dados do cliente" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-28" target="KGVV4r6-8Ooxce5C06mz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-28" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-37" target="KGVV4r6-8Ooxce5C06mz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-37" value="Ir para a UC9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KGVV4r6-8Ooxce5C06mz-40" target="KGVV4r6-8Ooxce5C06mz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-40" value="Sair" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KGVV4r6-8Ooxce5C06mz-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
